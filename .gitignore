@@ -1,5 +1,7 @@
 /files/*
-
+/generatedJson/*
+*.json
+!package.json
 # Logs
 logs
 *.log
