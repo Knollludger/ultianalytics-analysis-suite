@@ -1,0 +1,9 @@
+{
+  "name": "ultianalytics-analysis-suite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Knollludger/ultianalytics-analysis-suite.git",
+  "author": "Sean Timm <seantimm3@aol.com>",
+  "license": "MIT",
+  "type": "module"
+}
